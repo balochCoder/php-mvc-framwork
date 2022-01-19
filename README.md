@@ -1,4 +1,6 @@
-# Features of the Framework
+# Custom Php MVC Framework
+
+## Features of the Framework
 
 Used following features in the framework
 
