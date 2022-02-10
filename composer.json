@@ -1,0 +1,9 @@
+{
+    "name": "balochcoder/php-mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "require": {}
+}
